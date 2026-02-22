@@ -1,0 +1,10 @@
+{
+  "name": "STYLO AI — Fashion Studio",
+  "description": "AI Fashion Tool: Virtual try-on + 3D Mockup generator powered by Gemini API",
+  "version": "1.0.0",
+  "author": "STYLO AI",
+  "entryPoint": "src/App.tsx",
+  "model": "gemini-2.0-flash",
+  "capabilities": ["vision", "multimodal"],
+  "tags": ["fashion", "ai", "image", "mockup", "virtual-tryon"]
+}
